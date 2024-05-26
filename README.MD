@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="projeto.png" width="100%">
+</div>
+
 # Projeto de Chat em Tempo Real
 
 Este é um projeto de chat em tempo real desenvolvido utilizando HTML, JavaScript, CSS e Node.js com WebSockets.
@@ -5,6 +9,10 @@ Este é um projeto de chat em tempo real desenvolvido utilizando HTML, JavaScrip
 ## Descrição
 
 O objetivo deste projeto é criar um chat em tempo real que permite que os usuários se comuniquem em uma interface web. O chat utiliza a tecnologia de WebSockets para estabelecer uma conexão bidirecional entre o servidor e os clientes, permitindo a troca de mensagens em tempo real.
+
+## Link Para o Projeto
+
+https://projeto-chat-websocket-frontend.onrender.com/
 
 ## Funcionalidades
 
